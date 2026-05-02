@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WiFi Destroyer</string>
+    <string name="hint_duration">Enter duration (seconds)</string>
+    <string name="hint_url">Enter URL</string>
+    <string name="btn_start">START DESTROYER</string>
+    <string name="btn_stop">STOP DESTROYER</string>
+    <string name="mode_label">DL  |  UL</string>
+    <string name="watermark">by Critical_bug</string>
+    <string name="sys_init">System Initialized...</string>
+    <string name="start_stress_test">START STRESS TEST</string>
+    <string name="stop_test">STOP TEST</string>
+    <string name="status_starting_test">Starting %1$s stress test...\n</string>
+    <string name="type_upload">UPLOAD</string>
+    <string name="type_download">DOWNLOAD</string>
+</resources>
